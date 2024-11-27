@@ -1,0 +1,10 @@
+/*Gustavo Remberg Lima 2C 07/10/2024*/
+
+hr {
+    margin: 0;
+}
+
+.rodapé {
+    background-color: var(--branco);
+    padding: 1em;
+}
